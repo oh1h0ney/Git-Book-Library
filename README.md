@@ -1,14 +1,31 @@
-# 收藏的各式各样的文章
+# 收藏的各式各样文章
 
 ## 仓库来源
 
-> 文档太多，太过分散，不易于整理
+> 在日常生活中接触的教程太多，很多都有保存下来当作学习资料，但文档太多，太泛，太过分散，不易于整理，因而将其使用 GitHub 来实现一次整理。
+>
+> 主要涉及的内容会且不仅限包括以下内容：
+>
+> 1. Android 使用与开发相关经验技巧与教程
+> 2. Linux 配置经验
+> 3. Mac 使用经验教程及精品软件推荐
+> 4. 个人日常出于爱好以及工作收藏的网页书签
 
 ## 目录
 
+- Android App
+  - [使用 Tasker 更新 Host](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-auto-update-host-to-FQ.md)
+
+---
+
+- Windows
+  - Windows 快捷键
+
+---
+
 - Linux
   - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
-  - [centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md)
+  - [centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
 ---
 - Mac
   - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
@@ -56,7 +73,7 @@
   |                     |          周读          | http://www.ireadweek.com/index.php/Index/index.html |                            |
   |                     |       奔蛋电子书文库        | http://book.benegg.com/                  |                            |
   | Epub 以及 Kindle 书籍下载 |                      |                                          |                            |
-  |                     | Amazon 免费 Kindle 电子书 | https://www.amazon.cn/Kindle%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6/b/ref=sa_menu_kindle_l3_b116175071?ie=UTF8&node=116175071 |     Amazon 官方书城免费书籍分类      |
+  |                     | Amazon 免费 Kindle 电子书 | [www.amazon.cn](https://www.amazon.cn/Kindle%E5%85%8D%E8%B4%B9%E7%94%B5%E5%AD%90%E4%B9%A6/b/ref=sa_menu_kindle_l3_b116175071?ie=UTF8&node=116175071) |     Amazon 官方书城免费书籍分类      |
   |                     |          书伴          | https://bookfere.com/books               |                            |
   |                     |      Gutenberg       | www.gutenberg.org                        |          基本上是英文书籍          |
   |                     |       kindle 推       | http://www.kindlepush.com/main           |                            |
@@ -69,4 +86,6 @@
       - [grigor.tk](http://grigor.tk/)：收藏时（2017-7-19）网站分享有大量的高质量 SS 节点供免费使用，进入后点击科学上网可见。
       - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一
       - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一
+      - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到别一个文档。
+      - [科学上网 HOST](https://raw.githubusercontent.com/sy618/hosts/master/FQ)：同上，这个是有特殊用途的，上面那个是去广告的
 

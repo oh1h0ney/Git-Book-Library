@@ -73,4 +73,24 @@ sudo vim /etc/sysconfig/iptables
 ```
 sudo service iptables restart
 ```
-这样从其它客户机也可以连接上 mysql 服务了。
+在使用数据库管理工具（如 Navicat）连接到数据库过程中若出现  erro 1130 错误，可通过以下方法解决
+
+![Erro 1130](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/mysql-connect-erro-1130.png)
+
+```
+1. use mysql;  
+2. update user set host='%' where user = 'root';   
+3.flush privileges;  重新尝试远程连接即可成功 
+ >  如果在第二步的时候提示，ERROR 1062 (23000): Duplicate entry '%-root' for key 'PRIMARY' ，可通过  	 MySQL> select host from user where user = 'root';  命令在 MySQL 系统中查看是否有一个为 % 的用户，如	 有则再次执行 flush privileges 即可。
+```
+
+如若出现 erro 2003 错误是防火墙没有放行数据库默认的 3306 端口，解决方法如下
+
+![Erro 2003](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/mysql-connect-erro-2003.png)
+
+```
+1. vi  /etc/sysconfig/iptables
+2. -A INPUT -m state --state NEW -m tcp -p tcp --dport 3306 -j ACCEPT（注意：增加的开放 3306 端口的语句一定要在 -A FORWARD -j REJECT --reject-with icmp-host-prohibited之前）
+3.  service  iptables restart
+```
+
