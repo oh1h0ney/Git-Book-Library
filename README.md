@@ -7,19 +7,22 @@
 > 主要涉及的内容会且不仅限包括以下内容：
 >
 > 1. Android 使用与开发相关经验技巧与教程
-> 2. Linux 配置经验
-> 3. Mac 使用经验教程及精品软件推荐
-> 4. 个人日常出于爱好以及工作收藏的网页书签
+> 2. Windows 使用 Tips
+> 3. Linux 配置经验
+> 4. Mac 使用经验教程及精品软件推荐
+> 5. 个人日常出于爱好以及工作收藏的网页书签
 
 ## 目录
 
 - Android App
   - [使用 Tasker 更新 Host](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-auto-update-host-to-FQ.md)
+  - [使用 Tasker 得到类似墨水屏的阅读体验](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-set-link-screen-like-kindle-while-reading.md)
 
 ---
 
 - Windows
   - Windows 快捷键
+  - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onddrive-as-local-disk-at-explorer.md)
 
 ---
 
