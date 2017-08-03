@@ -41,7 +41,7 @@
     -  [小米路由 mini 刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-mini-xiaomi.md)
 ---
 - 网页收藏夹
-  >除大型网站外，任何网站都可能因其作者或组织停止维护而造成不能访问的情况，在录入此文档时均是可访问的，如有不可访问的可以给我来个 issue。
+  >除大型网站外，任何网站都可能因其作者或组织停止维护而造成不能访问的情况，在录入此文档时均是可访问的，如有不可访问的可以给我来个 issue，在我看到 issue 之后会去更正更新。
   - Android
 
     > 此分类网站均为 Android 开发过程中使用到的资源以及教程网站
@@ -94,4 +94,12 @@
       - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一
       - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到别一个文档。
       - [科学上网 HOST](https://raw.githubusercontent.com/sy618/hosts/master/FQ)：同上，这个是有特殊用途的，上面那个是去广告的
+
+
+```
+// TODO
+ - Windows keymap no added yet, add it in a short time
+ - One link in windows floder not work, fixed it next time
+ - One link in 工具类网站 not work, fixed it next time
+```
 
