@@ -17,12 +17,15 @@
 - Android App
   - [使用 Tasker 更新 Host](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-auto-update-host-to-FQ.md)
   - [使用 Tasker 得到类似墨水屏的阅读体验](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-set-link-screen-like-kindle-while-reading.md)
+  - [用个人私钥给 APK 文件签名](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/android-signed-apk-with-self-keystore.md)
 
 ---
 
 - Windows
   - Windows 快捷键
-  - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onddrive-as-local-disk-at-explorer.md)
+  - [无需工具在 CMD 中获取指定文件的 MD5](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/check-md5-in-cmd-without-tools.md)
+  - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onedrive-as-local-disk-at-explorer.md)
+  - [获取最新 Windows 预览版镜像](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/how-to-find the-lastest-windows-system-image.md)
 
 ---
 
