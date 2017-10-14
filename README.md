@@ -12,11 +12,6 @@
 > 4. Mac 使用经验教程及精品软件推荐
 > 5. 个人日常出于爱好以及工作收藏的网页书签
 
-## 目录
-
-- [Android App](#Android App)
-- [Windows](#Windows)
-
 ### Android App
   - [使用 Tasker 更新 Host](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-auto-update-host-to-FQ.md)
   - [使用 Tasker 得到类似墨水屏的阅读体验](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-set-link-screen-like-kindle-while-reading.md)
@@ -25,7 +20,7 @@
 ---
 
 ### Windows
-  - Windows 快捷键
+  - [Windows 快捷键](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-keymap.png)
   - [无需工具在 CMD 中获取指定文件的 MD5](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/check-md5-in-cmd-without-tools.md)
   - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onedrive-as-local-disk-at-explorer.md)
   - [获取最新 Windows 预览版镜像](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/how-to-find the-lastest-windows-system-image.md)
@@ -35,9 +30,11 @@
 - Linux
   - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
   - [centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
+  - [Vim KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/)
 ---
 - Mac
   - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
+  - [Mac KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/Mac-keyMap.png)
 ---
   - 路由器
     -  [斐讯K2刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-phicomm-k2.md)
