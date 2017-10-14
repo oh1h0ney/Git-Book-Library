@@ -16,6 +16,7 @@
   - [使用 Tasker 更新 Host](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-auto-update-host-to-FQ.md)
   - [使用 Tasker 得到类似墨水屏的阅读体验](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-set-link-screen-like-kindle-while-reading.md)
   - [用个人私钥给 APK 文件签名](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/android-signed-apk-with-self-keystore.md)
+  - [Chrome for android  开启底部地址栏](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/chrome-enable-buttom-adress-field.md)
 
 ---
 
@@ -30,7 +31,7 @@
 - Linux
   - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
   - [centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
-  - [Vim KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/)
+  - [Vim KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
 ---
 - Mac
   - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
