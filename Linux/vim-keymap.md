@@ -18,7 +18,7 @@
 
 下图是 300DPI 的超清大图。
 
-[](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-advanced.gif)
+[进阶版](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-advanced.gif)
 
 - **增强版**
 
@@ -27,5 +27,7 @@
 [增强版](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-modern.gif)
 
 - **文字版**
-[文字版](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-text-version-1.gif)1
-[文字版2](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-text-version-2.gif)
+
+  [文字版 1](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-text-version-1.png)
+
+  [文字版 2](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap-text-version-2.png)
