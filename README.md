@@ -20,6 +20,10 @@
 
 ---
 
+### Android Skill
+  - [使音量面板获得更多阶数(root)](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Skill/how-to-add-more-steps-to-your-volume-slider-root.md)
+---
+
 ### Windows
   - [Windows 快捷键](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-keymap.png)
   - [无需工具在 CMD 中获取指定文件的 MD5](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/check-md5-in-cmd-without-tools.md)
