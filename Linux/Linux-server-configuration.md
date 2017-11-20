@@ -2,15 +2,6 @@
 
 centos6.8服务器配置
 
-	本文包含以下内容：
-	- 阿里云源的配置
-	- Java 环境安装
-	- Tomcat 安装
-	- Maven 安装
-	- FTP 服务器安装（vsftpd）
-	- Nginx 安装
-	- MySQL 安装
-
 一.配置阿里云源
     http://mirrors.aliyun.com/help/centos
 二.安装java环境
@@ -165,7 +156,7 @@ centos6.8服务器配置
                     add_header Access-Control-Allow-Origin *;
                 }
             }
-    
+
             server{
                 listen 80;
                 autoindex off;
@@ -222,6 +213,6 @@ centos6.8服务器配置
         开通外网所有权限
         grant all privileges on 数据库名.* to '用户名'@'%' identified by '密码' with grant option;
 
-
-​    
+    
+    
 
