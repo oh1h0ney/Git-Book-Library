@@ -24,7 +24,7 @@
 
 然后我发现真的是不能玩，等会马上就root掉了，不然手机要变成咸鱼干了。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/e13581945ace44d99f61b57abff3854a.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/E13581945ACE44D99F61B57ABFF3854A.jpeg)
 
 在没有root权限的时候，有些厂商官方给出了一些电池优化方案，或者是后台杀进程的方案，如果你已经觉得很好用了，那很后面可能也就不需要看下去了。
 
@@ -46,7 +46,7 @@
 
 自身安卓玩机达人，想必都知道Android 绿色应用公约。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/ed1c67c5eb6343f88a1cbf3b54c09d40.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/ED1C67C5EB6343F88A1CBF3B54C09D40.jpeg)
 
 这是由oasisfeng和爱范儿发起的，秉承尊重用户隐私和保护设备体验的共同价值观的公约。
 
@@ -60,7 +60,7 @@
 
 以安卓8.0为例，讲一下非root状态下，绿色守护能做到什么。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/5ba8306327e54fd79bbd7201ca6a2936.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/5BA8306327E54FD79BBD7201CA6A2936.jpeg)
 
 我们可以通过按右上角的加号，把需要绿色化的应用加入到列表，然后按右下角的休眠按钮一键杀掉所有的应用。
 
@@ -72,21 +72,21 @@ Root之后可以做到真正的自动杀，不需要借助辅助功能实现。
 
 大家不要轻易给可疑的应用授予辅助功能，绿色守护能做到锁屏状态下借助这个权限帮你清理后台应用，但又无需root权限，那么其他可疑的应用能做些什么，就不好说了，非常可怕。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/1e06261a9d2944d6b525147d2e485bb4.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/1E06261A9D2944D6B525147D2E485BB4.jpeg)
 
 谷歌最近也开始在GooglePlay里下架滥用辅助功能的app，似乎oasisfeng也收到了相关警告，不知道后续能不能沟通下来，万一谈崩，说不定就要被谷歌下架了，毕竟原则上辅助功能是谷歌做出来给身体有缺陷的用户的。
 
 安卓8.0上，绿色守护还可以开启强化的doze mode。安卓系统本身要进入doze mode的要求很苛刻，基本上需要手机完全休眠很久才能触发，但像微信这种老流氓一直在后台请求数据，国内的应用环境很难真正让手机能休眠下来。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/dc1fd9340501462d92f9265158f65336.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/DC1FD9340501462D92F9265158F65336.jpeg)
 
 绿色守护所做的，应该是降低触发的门槛，手机休眠一会儿就自动进入嗜睡模式，有影响消息接收的情况，就需要把指定应用排除在名单外。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/346c4e74f6b64b84b9d64b762d7f6bfd.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/346C4E74F6B64B84B9D64B762D7F6BFD.jpeg)
 
 另外就是唤醒追踪，可惜不root的话，安卓8.0上只能追踪是谁唤醒了谁，但不能切断这个流氓唤醒行为。流氓app，以腾讯、百度、阿里等全家桶为首，就是这种你看到了不爽，但又不能把它们怎么样，为所欲为。所以说，不root的手机和咸鱼没什么区别。
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/0d8192475ff94cedbbbdae7a7902116d.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device/0D8192475FF94CEDBBBDAE7A7902116D.jpeg)
 
 但是呢，因为系统限制的一些原因，开启doze模式和唤醒追踪，要么root手机，要么~~曲线救国吧，绿色守护作者给了一份方案，甚至可以重启之后仍然可用辅助功能，不需要重新授权也能自动杀软件。
 
