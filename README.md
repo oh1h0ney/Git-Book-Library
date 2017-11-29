@@ -24,16 +24,17 @@
 - [Android 开发过程中出现的一些错误提示](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/error.md)
 - [Android RxJava+Retrofit 完美封装](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/rxjava-retrofit.md)
 - [使用代码获取当前 Apk 所使用的 Key 的 Sha1](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/get-apk-sha1-with-code.md)
-- [](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/)
 - [Android studio 在工程中添加签名文件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/add-signture-in-android-studio.md)
 - [JAVA 插入数据到 MySql 少了 8 小时](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/8-hours-late-after-inserted-mysql.md)
 - [android studio 高级设置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/android-studio-advance-setting.md)
 - [Android Studio 自定义设置注释模板](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/android-studio-custom-templates.md)
+- [夜神多开连接 Android Studio](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/mutiple-nox-connect-port.md)
+- [开源库](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/open-source-library-maps.md)
 
 ---
 
 ### Android Skill
-  - [使音量面板获得更多阶数(root)](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Skill/how-to-add-more-steps-to-your-volume-slider-root.md)
+  - [使音量面板获得更多阶数(rooted)](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Skill/how-to-add-more-steps-to-your-volume-slider-root.md)
 ---
 
 ### Windows
