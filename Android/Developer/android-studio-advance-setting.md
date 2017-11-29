@@ -181,7 +181,7 @@ Android Studio 创建 Module 时并没有将 Android 开发中常用的文件目
 
 默认结构
 
-![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/android-studio-advance-setting/zhizhang.jpg.jpeg)
+![img](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/android-studio-advance-setting/drawable2.png)
 
 自定义结构
 

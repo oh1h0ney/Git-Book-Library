@@ -15,9 +15,16 @@
 ### Android App Tips
 
 - [使用 Tasker 更新 Host](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-auto-update-host-to-FQ.md)
+
 - [使用 Tasker 得到类似墨水屏的阅读体验](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/tasker-set-link-screen-like-kindle-while-reading.md)
+
 - [用个人私钥给 APK 文件签名](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/android-signed-apk-with-self-keystore.md)
+
 - [Chrome for android  开启底部地址栏](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/chrome-enable-buttom-adress-field.md)
+
+- [拯救你无法root的安卓7.0-8.0设备](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device.md)
+
+  ​
 
 ### Android Development Tips
 - [Android 程序开发集成自动检测更新方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/check-app-update.md)
@@ -30,6 +37,7 @@
 - [Android Studio 自定义设置注释模板](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/android-studio-custom-templates.md)
 - [夜神多开连接 Android Studio](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/mutiple-nox-connect-port.md)
 - [开源库](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/open-source-library-maps.md)
+- [一个工具类搞定drawable下扎堆的selector](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/one-tool-class-to-solve-drawable-selector.md)
 
 ---
 
