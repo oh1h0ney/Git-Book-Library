@@ -119,8 +119,9 @@
 
   - 好孩子看不见的网站 ↓
       - [grigor.tk](http://grigor.tk/)：收藏时（2017-7-19）网站分享有大量的高质量 SS 节点供免费使用，进入后点击科学上网可见。
-      - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一
-      - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一
+      - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
+      - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一 （只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
+      - [xidea.online](http://xidea.online) :JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
       - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到别一个文档。
       - [科学上网 HOST](https://raw.githubusercontent.com/sy618/hosts/master/FQ)：同上，这个是有特殊用途的，上面那个是去广告的
 
