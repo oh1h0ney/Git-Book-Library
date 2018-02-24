@@ -50,22 +50,24 @@
 - [无需工具在 CMD 中获取指定文件的 MD5](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/check-md5-in-cmd-without-tools.md)
 - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onedrive-as-local-disk-at-explorer.md)
 - [获取最新 Windows 预览版镜像](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/how-to-find-the-lastest-windows-system-image.md)
+- [Windows 桌面右键菜单卡顿的解决方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/solve-of-desktop-right-button-menu-respond-slow.md)
 
 ---
 
-- Linux
-  - [Centos6.8 服务器配置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux-server-configuration.md)
+### Linux
+  - [Linux 服务器最简单的自动维护方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/a-simple-way-to-maintain-a-linux-server.md)
+  - [Centos6.8 服务器配置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-server-configuration.md)
   - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
   - [Centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
-  - [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Centos-install-JDK.md)
-  - [Vim KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
-  - [Linux vps test download and upload speed with chinese network](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux-download-upload-speed-test-to-china.md)
+  - [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Centos-install-JDK.md)
+  - [史上最全 Vim 快捷键键位图——入门到进阶](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
+  - [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
 ---
-- Mac
+### Mac
   - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
   - [Mac KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/Mac-KeyMap.png)
 ---
-- 路由器
+### 路由器
     -  [斐讯K2刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-phicomm-k2.md)
     -  [小米路由 mini 刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-mini-xiaomi.md)
 ---
@@ -77,7 +79,6 @@
 
     - [Maven Repository](https://mvnrepository.com/) ：Maven 仓库，可以找各类 Maven Gradle 依赖地址，使用方法可参考：[android-maven-repository.md](https://github.com/oh1h0ney/Git-Book-Library/blob/master/WebSite/android-maven-repository.md)
     - [jsonschema2pojo](http://www.jsonschema2pojo.org/) 可根据 Json 格式的文本生成相应的 Java Bean，从此无需手动写 Json 数据类
-    - ​
 
   - Mac
 
@@ -128,8 +129,8 @@
 
 ```
 // TODO
- - Windows keymap no added yet, add it in a short time
  - One link in windows floder not work, fixed it next time
  - One link in 工具类网站 not work, fixed it next time
+ - Some Windows skill have not pick up yet, need some time to do it.
 ```
 
