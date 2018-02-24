@@ -11,6 +11,8 @@
 > 3. Linux 配置经验
 > 4. Mac 使用经验教程及精品软件推荐
 > 5. 个人日常出于爱好以及工作收藏的网页书签
+>
+> 如果你在日常生活中有什么好的教程或者建议，欢迎 Pull 与 issues。
 
 ### Android App Tips
 
@@ -123,14 +125,15 @@
       - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
       - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一 （只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
       - [xidea.online](http://xidea.online) :JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
-      - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到别一个文档。
+      - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到另一个文档。
       - [科学上网 HOST](https://raw.githubusercontent.com/sy618/hosts/master/FQ)：同上，这个是有特殊用途的，上面那个是去广告的
 
 
 ```
 // TODO
- - One link in windows floder not work, fixed it next time
+ - One link in windows floder not work, fixed it next time,like active windows or else
  - One link in 工具类网站 not work, fixed it next time
  - Some Windows skill have not pick up yet, need some time to do it.
+ - Want to add some tips for using Shadowsocks
 ```
 
