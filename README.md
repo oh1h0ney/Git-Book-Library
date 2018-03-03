@@ -57,7 +57,7 @@
 - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onedrive-as-local-disk-at-explorer.md)
 - [获取最新 Windows 预览版镜像](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/how-to-find-the-lastest-windows-system-image.md)
 - [Windows 桌面右键菜单卡顿的解决方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/solve-of-desktop-right-button-menu-respond-slow.md)
-- [Windows 系统还原功能的使用方法 *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-system-backup.md)
+- [Windows 系统还原功能的使用方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-system-backup.md)
 - [好用的系统完全备份程序--Acronis True Image *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-backup-software-ATI.md)
 
 ---
