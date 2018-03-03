@@ -59,6 +59,7 @@
 - [Windows 桌面右键菜单卡顿的解决方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/solve-of-desktop-right-button-menu-respond-slow.md)
 - [Windows 系统还原功能的使用方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-system-backup.md)
 - [好用的系统完全备份程序--Acronis True Image *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-backup-software-ATI.md)
+- [编辑 HOST 文件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/way-to-edit-host-in-windows.md)
 
 ---
 
