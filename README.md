@@ -11,6 +11,7 @@
 > 3. Linux 配置经验
 > 4. Mac 使用经验教程及精品软件推荐
 > 5. 个人日常出于爱好以及工作收藏的网页书签
+> 6. 新增关于电脑故障的维修，暂时定为硬件类的维修
 >
 > 如果你在日常生活中有什么好的教程或者建议，欢迎 Pull 与 issues。
 
@@ -26,9 +27,11 @@
 
 - [拯救你无法root的安卓7.0-8.0设备](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/App/save-your-unable-root-nougat-oreo-device.md)
 
-  ​
+---
+
 
 ### Android Development Tips
+
 - [Android 程序开发集成自动检测更新方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/check-app-update.md)
 - [Android 开发过程中出现的一些错误提示](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/error.md)
 - [Android RxJava+Retrofit 完美封装](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Developer/rxjava-retrofit.md)
@@ -48,11 +51,14 @@
 ---
 
 ### Windows
+
 - [Windows 快捷键](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-keymap.png)
 - [无需工具在 CMD 中获取指定文件的 MD5](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/check-md5-in-cmd-without-tools.md)
 - [将 OneDrive 映射为本地驱动器](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/mapping-onedrive-as-local-disk-at-explorer.md)
 - [获取最新 Windows 预览版镜像](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/how-to-find-the-lastest-windows-system-image.md)
 - [Windows 桌面右键菜单卡顿的解决方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/solve-of-desktop-right-button-menu-respond-slow.md)
+- [Windows 系统还原功能的使用方法 *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-system-backup.md)
+- [好用的系统完全备份程序--Acronis True Image *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-backup-software-ATI.md)
 
 ---
 
@@ -64,22 +70,30 @@
   - [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Centos-install-JDK.md)
   - [史上最全 Vim 快捷键键位图——入门到进阶](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
   - [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
+
 ---
+
 ### Mac
   - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
   - [Mac KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/Mac-KeyMap.png)
+
 ---
+
 ### 路由器
-    -  [斐讯K2刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-phicomm-k2.md)
-    -  [小米路由 mini 刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-mini-xiaomi.md)
+-  [斐讯K2刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-phicomm-k2.md)
+-  [小米路由 mini 刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-mini-xiaomi.md)
 ---
+### 电脑故障
+- [电脑屏幕可能会出现的故障](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Computer/computer-hardware-screen-issues.md)
+---
+
 - 网页收藏夹
-  >除大型网站外，任何网站都可能因其作者或组织停止维护而造成不能访问的情况，在录入此文档时均是可访问的，如有不可访问的可以给我来个 issue，在我看到 issue 之后会去更正更新。
+  >任何网站都可能因其作者或组织停止维护而造成不能访问的情况，文档中的网站在录入此文档时均是可访问的，如有不可访问的可以给提交 issue，在看到 issue 之后我会去更新。
   - Android
 
     > 此分类网站均为 Android 开发过程中使用到的资源以及教程网站
 
-    - [Maven Repository](https://mvnrepository.com/) ：Maven 仓库，可以找各类 Maven Gradle 依赖地址，使用方法可参考：[android-maven-repository.md](https://github.com/oh1h0ney/Git-Book-Library/blob/master/WebSite/android-maven-repository.md)
+    - [Maven Repository](https://mvnrepository.com/) ：Maven 仓库，可以找各类 Maven Gradle 依赖地址，使用方法可参考：[android-maven-repository](https://github.com/oh1h0ney/Git-Book-Library/blob/master/WebSite/android-maven-repository.md)
     - [jsonschema2pojo](http://www.jsonschema2pojo.org/) 可根据 Json 格式的文本生成相应的 Java Bean，从此无需手动写 Json 数据类
 
   - Mac
