@@ -58,8 +58,8 @@
 - [获取最新 Windows 预览版镜像](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/how-to-find-the-lastest-windows-system-image.md)
 - [Windows 桌面右键菜单卡顿的解决方案](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/solve-of-desktop-right-button-menu-respond-slow.md)
 - [Windows 系统还原功能的使用方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-system-backup.md)
-- [好用的系统完全备份程序--Acronis True Image *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-backup-software-ATI.md)
-- [编辑 HOST 文件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/way-to-edit-host-in-windows.md)
+- [好用的系统完全备份程序--Acronis True Image](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-backup-software-ATI.md)
+- [编辑 HOST 文件 *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/way-to-edit-host-in-windows.md)
 
 ---
 
@@ -68,6 +68,8 @@
   - [Centos6.8 服务器配置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-server-configuration.md)
   - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
   - [Centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
+  - [Centos 下连接 MySQL 显示 Error 1130 错误的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/centos-mysql-connection-error-1130.md)
+  - [Centos 下连接 MySQL 显示 Error 2003 错误的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/centos-mysql-connection-error-2003.md)
   - [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Centos-install-JDK.md)
   - [史上最全 Vim 快捷键键位图——入门到进阶](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
   - [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
