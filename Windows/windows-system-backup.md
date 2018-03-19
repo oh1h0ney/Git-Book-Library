@@ -10,16 +10,16 @@
 
 - 设置还原点， 在保护设置下面的框中选择系统盘，比如 C 盘，选中后点击 配置，在弹出的界面中选择启用系统保护，并将下方最大使用量拉到最大，点击确定。然后选择刚刚点击的配置按钮下面的创建按钮，在弹出的界面中输入任意内容并点击确定。步骤图如下：
 
-  - [1](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-1.png)
-  - [2](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-2.png) 
-  - [3](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-3.png)
-  - [4](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-4.png)
-  - [5](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-5.png)
-  - [6](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-6.png)
-  - [7](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-7.png)
-  - [8](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-8.png)
-  - [9](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-9.png)
-  - [10](!https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-10.png)
+  - ![1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-1.png)
+  - ![2](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-2.png) 
+  - ![3](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-3.png)
+  - ![4](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-4.png)
+  - ![5](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-5.png)
+  - ![6](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-6.png)
+  - ![7](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-7.png)
+  - ![8](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-8.png)
+  - ![9](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-9.png)
+  - ![10](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-10.png)
 
 - 使用还原点还原系统
 
