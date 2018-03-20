@@ -11,15 +11,26 @@
 - 设置还原点， 在保护设置下面的框中选择系统盘，比如 C 盘，选中后点击 配置，在弹出的界面中选择启用系统保护，并将下方最大使用量拉到最大，点击确定。然后选择刚刚点击的配置按钮下面的创建按钮，在弹出的界面中输入任意内容并点击确定。步骤图如下：
 
   - ![1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-1.png)
-  - ![2](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-2.png) 
-  - ![3](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-3.png)
+  打开资源管理器，在左侧面板的我电脑上右击，在弹出的菜单中选择属性
+  - ![2](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-2.png) 
+  在弹出的窗口左侧点击系统保护
+  - ![3](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-3.png)
+  在保护设置中选中系统所在盘符，一般为C盘
   - ![4](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-4.png)
+  点配置
   - ![5](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-5.png)
+  在弹出的界面中选择启用系统保护，并将最大使用量拉到最大
   - ![6](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-6.png)
+  点应用
   - ![7](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-7.png)
+  点确定，窗口会自动关闭，并显示上一级窗口
   - ![8](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-8.png)
+  点击界面中的创建按钮，点击后会弹出创建还原点窗口
   - ![9](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-9.png)
+  在对话框中输入任意可以文本，文本的内容最好是可以帮助你回忆这个系统还原点是在什么时候设置的，日后在多个还原点中选择的时候可以更清晰
   - ![10](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-backup-10.png)
+  点击确定就可以开始创建还原点了，根据系统内容的大小，创建所需要的时间将会适当的加长或者缩短。
+  至此，系统的还原点设置就完成了。
 
 - 使用还原点还原系统
   - ![1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-restore-1.png)
