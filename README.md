@@ -47,7 +47,7 @@
 ---
 
 ### Android Skill
-  - [使音量面板获得更多阶数(rooted)](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Skill/how-to-add-more-steps-to-your-volume-slider-root.md)
+- [使音量面板获得更多阶数(rooted)](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Android/Skill/how-to-add-more-steps-to-your-volume-slider-root.md)
 ---
 
 ### Windows
@@ -60,11 +60,13 @@
 - [Windows 系统还原功能的使用方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-system-backup.md)
 - [好用的系统完全备份程序--Acronis True Image](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/windows-backup-software-ATI.md)
 - [编辑 HOST 文件 *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/way-to-edit-host-in-windows.md)
+- [关闭 Windows Defender](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/set-windows-defender-to-close-permanent.md)
+- [在 PowerShell 中使用 ADB 命令重启 Android 至 Recovery 模式](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/use-adb-command-with-powershell.md)
 
 ---
 
 ### Linux
-  - [Linux 服务器最简单的自动维护方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/a-simple-way-to-maintain-a-linux-server.md)
+- [Linux 服务器最简单的自动维护方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/a-simple-way-to-maintain-a-linux-server.md)
   - [Centos6.8 服务器配置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-server-configuration.md)
   - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
   - [Centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
@@ -77,7 +79,7 @@
 ---
 
 ### Mac
-  - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
+- [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
   - [Mac KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/Mac-KeyMap.png)
 
 ---
