@@ -10,7 +10,7 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SecurityHealthService
 
 3、在右侧找到 DWORD（32 位）值，命名为 Start。
 
-4、修改数值数据为 4。
+4、修改数值数据为 3。
 
 5、重启文件资源管理器，或注销再登录 / 重启系统。
 
