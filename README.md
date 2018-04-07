@@ -63,6 +63,8 @@
 - [关闭 Windows Defender](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/set-windows-defender-to-close-permanent.md)
 - [在 PowerShell 中使用 ADB 命令重启 Android 至 Recovery 模式](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/use-adb-command-with-powershell.md)
 - [在 Win10 中禁用笔记本自带的键盘](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-notebook-keyboard-windows10.md)
+- [关机时不等待应用程序关闭直接强制关闭应用程序快速关机](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/regiedit-to-speed-up-windows-shutdown.md)
+- [使用注册表更改默认路径](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/regedit-edit-default-path-with-your-mind.md)
 
 ---
 
