@@ -62,6 +62,7 @@
 - [编辑 HOST 文件 *](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/way-to-edit-host-in-windows.md)
 - [关闭 Windows Defender](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/set-windows-defender-to-close-permanent.md)
 - [在 PowerShell 中使用 ADB 命令重启 Android 至 Recovery 模式](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/use-adb-command-with-powershell.md)
+- [在 Win10 中禁用笔记本自带的键盘](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-notebook-keyboard-windows10.md)
 
 ---
 
