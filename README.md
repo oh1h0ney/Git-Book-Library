@@ -78,6 +78,8 @@
   - [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Centos-install-JDK.md)
   - [史上最全 Vim 快捷键键位图——入门到进阶](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
   - [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
+  - [在 Centos 上搭建 QQ 机器人实现自动回复](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/MojoWebQQ.md)
+  - [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
 
 ---
 
@@ -147,6 +149,7 @@
       - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
       - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一 （只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
       - [xidea.online](http://xidea.online) :JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
+      - [laucyun](http://jetbrains.license.laucyun.com/):JetBrains 系列产品服务器之一，18.04 测试支持 2017.3.3
       - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到另一个文档。
       - [科学上网 HOST](https://raw.githubusercontent.com/sy618/hosts/master/FQ)：同上，这个是有特殊用途的，上面那个是去广告的
 
