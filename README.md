@@ -82,6 +82,7 @@
   - [在 Centos 上搭建 QQ 机器人实现自动回复](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/MojoWebQQ.md)
   - [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
   - [在 VPS 上一键安装 KMS 服务脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/onekey-install-kms-in-vps-to-active-microsoft-product.md)
+  - [CentOS 服务器上搭建 Gitlab 安装步骤、中文汉化详细步骤、日常管理以及异常故障排查](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/install-gitlab-in-centos.md)
 
 ---
 
