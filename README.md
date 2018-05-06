@@ -161,6 +161,7 @@
   |                     |         俺下载          | http://www.anxz.com/downlist/s_175_1.html | 下载下来的文件如需解压密码为www.anxz.com |
 
   - 好孩子看不见的网站 ↓
+      - [小业务购买网站](http://xlmm.weikm.cc/) ：夏凉业务网，可以买钻买会员，买一些小东西，互联网商品专用
       - [grigor.tk](http://grigor.tk/)：收藏时（2017-7-19）网站分享有大量的高质量 SS 节点供免费使用，进入后点击科学上网可见。
       - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
       - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一 （只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
