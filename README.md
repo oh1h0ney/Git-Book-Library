@@ -65,6 +65,7 @@
 - [在 Win10 中禁用笔记本自带的键盘](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-notebook-keyboard-windows10.md)
 - [关机时不等待应用程序关闭直接强制关闭应用程序快速关机](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/regiedit-to-speed-up-windows-shutdown.md)
 - [使用注册表更改默认路径](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/regedit-edit-default-path-with-your-mind.md)
+- [关闭 Windows Hyper-V](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows\disable-hyper-v-in-windows.md)
 
 ---
 
@@ -80,6 +81,7 @@
   - [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
   - [在 Centos 上搭建 QQ 机器人实现自动回复](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/MojoWebQQ.md)
   - [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
+  - [在 VPS 上一键安装 KMS 服务脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/onekey-install-kms-in-vps-to-active-microsoft-product.md)
 
 ---
 
@@ -89,13 +91,27 @@
 
 ---
 
+### WebDev
+- [PHP 设置允许局域网内访问](https://github.com/oh1h0ney/Git-Book-Library/blob/master/WebDev/PHP/php-allow-local-net-access-httpd.conf.md)
+
+---
+
 ### 路由器
 -  [斐讯K2刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-phicomm-k2.md)
 -  [小米路由 mini 刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-mini-xiaomi.md)
 ---
 ### 电脑故障
 - [电脑屏幕可能会出现的故障](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Computer/computer-hardware-screen-issues.md)
+
 ---
+
+## 生活小贴士
+
+- [怎么开米袋](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Live/how-to-de-archive-a-rice-bag.md)
+
+---
+
+
 
 - 网页收藏夹
   >任何网站都可能因其作者或组织停止维护而造成不能访问的情况，文档中的网站在录入此文档时均是可访问的，如有不可访问的可以给提交 issue，在看到 issue 之后我会去更新。
