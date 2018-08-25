@@ -14,6 +14,14 @@ chmod +x shadowsocks-all.sh
 ./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
 ```
 
+
+
+```
+wget -N --no-check-certificate [https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh](https://link.zhihu.com/?target=https%3A//raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh) && chmod +x ssr.sh && bash ssr.sh 
+```
+
+
+
 输入想要设置的 SS 端口号、 SS 密码以及加密协议确认后可自动开始下载文件进行安装。安装完成后，脚本提示如下：
 
 ```
