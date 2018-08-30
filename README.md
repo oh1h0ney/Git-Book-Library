@@ -83,6 +83,7 @@
   - [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
   - [在 VPS 上一键安装 KMS 服务脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/onekey-install-kms-in-vps-to-active-microsoft-product.md)
   - [CentOS 服务器上搭建 Gitlab 安装步骤、中文汉化详细步骤、日常管理以及异常故障排查](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/install-gitlab-in-centos.md)
+  - Ubuntu 16.0.2 及相近版本无法使用 Killer E2500 以太网卡的解决方法[https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/ubuntu-16-killer-e2500-configure-command.md]
 
 ---
 
@@ -141,6 +142,7 @@
       - [JPEG Optimizer 图片压缩](http://www.jpeg-optimizer.com/)
 
   - 电子资源下载
+
     >在整理书签时已经很少从网上下载书籍，这些网站的资源丰富性不一，找不到书的时候可以一个一个地试，总有一个适合你。再附一个找书方法长图，里面介绍有可运用的找书策略：[tips-for-search-book-resource](https://github.com/oh1h0ney/Git-Book-Library/blob/master/WebSite/tips-for-search-book-resource.jpg)
 
   |                  类别 |          网站          | 网址                                       |           描述（若有）           |
