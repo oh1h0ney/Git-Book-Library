@@ -83,7 +83,7 @@
   - [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
   - [在 VPS 上一键安装 KMS 服务脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/onekey-install-kms-in-vps-to-active-microsoft-product.md)
   - [CentOS 服务器上搭建 Gitlab 安装步骤、中文汉化详细步骤、日常管理以及异常故障排查](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/install-gitlab-in-centos.md)
-  - Ubuntu 16.0.2 及相近版本无法使用 Killer E2500 以太网卡的解决方法[https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/ubuntu-16-killer-e2500-configure-command.md]
+  - [Ubuntu 16.0.2 及相近版本无法使用 Killer E2500 以太网卡的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/ubuntu-16-killer-e2500-configure-command.md)
 
 ---
 
