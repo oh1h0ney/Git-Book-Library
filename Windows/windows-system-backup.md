@@ -132,3 +132,13 @@
 [恢复还原点 GIF](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows-system-backup-video-for-restore.gif)
 
 两个 GIF 图片大小分别是 2.63M 与 1.67M
+
+
+
+## 如果还原失败
+
+![还原失败示意图](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windows_system_restore_failed_img.jpg)
+
+此时可以参照以下教程进入高级重启中进行还原系统
+
+[还原失败时的解决方法](https://www.landiannews.com/archives/42318.html)
