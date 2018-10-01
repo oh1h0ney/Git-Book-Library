@@ -27,7 +27,7 @@
 
    显示此界面表示正在加载，准备进入安装界面。
 
-   ![Before-Setup](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Before_Setup.png)
+   ![Before-Setup](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Before_Setup.png)
 
 2. 输入语言与其他首选项
 
@@ -35,13 +35,13 @@
 
    如需要更改语言，也可在此修改。如修改后出现不认识显示的文字，可重新再次安装系统。谨记，请不要随意修改默认选项，在没有指导的时候，使用默认选项。
 
-   ![Setup-1](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_1.png)
+   ![Setup-1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_1.png)
 
 3. 现在安装
 
-   ![Setup-22](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_2.png)
+   ![Setup-22](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_2.png)
 
-   ![Setup-3](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_3.png)
+   ![Setup-3](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_3.png)
 
 4. 激活 Windows
 
@@ -53,25 +53,25 @@
 
    系统安装完成后再输入产品密钥，完成 Windows 的激活。
 
-   ![Setup-4](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_4.png)
+   ![Setup-4](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_4.png)
 
 5.选择系统版本
 
-​	选择 Windows 10 专业版，然后点击下一步。
+	选择 Windows 10 专业版，然后点击下一步。
 
-![Setup-5](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_5.png)
+![Setup-5](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_5.png)
 
 6. 许可条款
 
    勾选接受许可条款，并点击下一步。
 
-   ![Setup-6](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_6.png)
+   ![Setup-6](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_6.png)
 
 7. 选择安装类型
 
    点击自定义，仅安装 Windows（高级）。
 
-   ![Setup-7](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_7.png)
+   ![Setup-7](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_7.png)
 
 8. 清除旧分区
 
@@ -81,37 +81,37 @@
    4. 选中驱动器 1 分区2，点击删除
    5. 选中驱动器 1 分区1 恢复，点击删除
 
-   ![Setup-9](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_9.png)
+   ![Setup-9](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_9.png)
 
-   ![Setup-11](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_11.png)
+   ![Setup-11](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_11.png)
 
-   ![Setup-12](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_12.png)
+   ![Setup-12](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_12.png)
 
 9. 新建分区
 
    选中驱动器 1 未分配空间，点击新建，点应用，点下一步
 
-   ![Setup-13](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_13.png)
+   ![Setup-13](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_13.png)
 
-   ![Setup-14](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_14.png)
+   ![Setup-14](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_14.png)
 
-   ![Setup-15](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_15.png)
+   ![Setup-15](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_15.png)
 
-   ![Setup-17](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_17.png)
+   ![Setup-17](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_17.png)
 
 10. 正在安装
 
     如下界面出现时表示已经开始安装，待进度走完，系统会自动重启，并启动初始设置界面。
 
-    ![Setup-18](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_18.png)
+    ![Setup-18](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_18.png)
 
     安装完成
 
-    ![Setup-19](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_19.png)
+    ![Setup-19](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_19.png)
 
     系统将会自动重启
 
-    ![Setup-20](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Setup_20.png)
+    ![Setup-20](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Setup_20.png)
 
 ## 安装后初始设置
 
@@ -119,23 +119,23 @@
 
    - 当前为 “海内存知己，天涯若比邻”，出现此界面表明正在加载
 
-     ![Welcome](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\Welcome.png)
+     ![Welcome](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/Welcome.png)
 
 2. 在加载完成后，语音助手会语音提示，提示过后将会开始基本设置，第一个是区域设置，此时选择**中国**，然后点是，进入下一步。
 
-   ![Region](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After-Setup-Region.png)
+   ![Region](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After-Setup-Region.png)
 
 3. 键盘布局设置
 
    选择**微软拼音**，然后点**是**，进入下一步。
 
-   ![](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After-Setup-Keyboard.png)
+   ![](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After-Setup-Keyboard.png)
 
 4. 添加第二种键盘布局
 
    在这个界面中选择**跳过**，即可进入下一步。如需要设置第二键盘布局可看后文介绍，本处略过。
 
-   ![Keyboard-Second](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Keyboard_Second.png)
+   ![Keyboard-Second](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Keyboard_Second.png)
 
 5. 连接到网络
 
@@ -143,7 +143,7 @@
 
    请勿连接网络。如果已连接网线，请拔掉网线。请不要连接 WIFI。直接点击左下角，现在**跳过**，进入下一步。
 
-![Network](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Network.png)
+![Network](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Network.png)
 
 6. 设置用户名
 
@@ -151,13 +151,13 @@
 
    输入完成后点下一步，进入下一步，设置用户密码。
 
-   ![User-Name](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_User_Name.png)
+   ![User-Name](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_User_Name.png)
 
    7. 设置用户密码
 
       在此处设置用户密码，该密码将会在每次开机登录时要求输入，请牢记。如不需要设置密码，此处可留空，直接点击下一步。此处以不设密码留空为例。
 
-      ![User-Password](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_User_Password.png)
+      ![User-Password](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_User_Password.png)
 
    8. 服务设置
 
@@ -167,7 +167,7 @@
 
          此项设置后可后续在设置中关闭。
 
-      ![Cortana](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Cortana.png)
+      ![Cortana](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Cortana.png)
 
       2. 隐私设置
 
@@ -185,20 +185,20 @@
 
          还可以点击了解详情了解更多信息。
 
-         ![Private-Setting](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After-Setup-Private_Setting.png)
+         ![Private-Setting](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After-Setup-Private_Setting.png)
 
       9. 设置完成，等待
 
          以下界面出现后，稍加等待就可以进入安装完成后的系统了。
 
-         ![Almost-Done](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Almost_Done.png)
+         ![Almost-Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done.png)
 
-         ![Almost-Done-1](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Almost_Done_1.png)
+         ![Almost-Done-1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done_1.png)
 
-         ![Almost-Done-2](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Almost_Done_2.png)
+         ![Almost-Done-2](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done_2.png)
 
       10.安装完成，进入系统
 
-      ​	初始界面如下。仅有回收站与 Microsoft Edge。还需要进一步安装相应驱动，并关闭更新。
+      	初始界面如下。仅有回收站与 Microsoft Edge。还需要进一步安装相应驱动，并关闭更新。
 
-      ![Done](D:\Document\System\Documents\Github\Git Book Library\Windows\windowsInstall\After_Setup_Done.png)
+      ![Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Done.png)
