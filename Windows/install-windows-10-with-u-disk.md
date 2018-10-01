@@ -153,52 +153,52 @@
 
    ![User-Name](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_User_Name.png)
 
-   7. 设置用户密码
+7. 设置用户密码
 
-      在此处设置用户密码，该密码将会在每次开机登录时要求输入，请牢记。如不需要设置密码，此处可留空，直接点击下一步。此处以不设密码留空为例。
+   在此处设置用户密码，该密码将会在每次开机登录时要求输入，请牢记。如不需要设置密码，此处可留空，直接点击下一步。此处以不设密码留空为例。
 
-      ![User-Password](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_User_Password.png)
+   ![User-Password](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_User_Password.png)
 
-   8. 服务设置
+8. 服务设置
 
-      往下将会是一些服务设置，每一个都可以使用默认设置，不断地点是进入下一步即可。如果对于微软信息收集服务比较敏感，可以一个个设置。具体会设置的项如下。
+   往下将会是一些服务设置，每一个都可以使用默认设置，不断地点是进入下一步即可。如果对于微软信息收集服务比较敏感，可以一个个设置。具体会设置的项如下。
 
-      1. 是否让 Cortana 作为你的个人助理
+   1. 是否让 Cortana 作为你的个人助理
 
-         此项设置后可后续在设置中关闭。
+      此项设置后可后续在设置中关闭。
 
-      ![Cortana](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Cortana.png)
+   ![Cortana](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Cortana.png)
 
-      2. 隐私设置
+   2. 隐私设置
 
-         如无特殊需求，可不做修改，直接接受，这有助于提高 Win10 的使用体验。
+      如无特殊需求，可不做修改，直接接受，这有助于提高 Win10 的使用体验。
 
-         主要涉及以下几项：
+      主要涉及以下几项：
 
-         1. 语音识别
-         2. 查找我的设备
-         3. 墨迹书写与键入
-         4. 位置
-         5. 诊断数据
-         6. 量身定制的体验
-         7. 广告 ID
+      1. 语音识别
+      2. 查找我的设备
+      3. 墨迹书写与键入
+      4. 位置
+      5. 诊断数据
+      6. 量身定制的体验
+      7. 广告 ID
 
-         还可以点击了解详情了解更多信息。
+      还可以点击了解详情了解更多信息。
 
-         ![Private-Setting](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After-Setup-Private_Setting.png)
+      ![Private-Setting](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After-Setup-Private_Setting.png)
 
-      9. 设置完成，等待
+   9. 设置完成，等待
 
-         以下界面出现后，稍加等待就可以进入安装完成后的系统了。
+      以下界面出现后，稍加等待就可以进入安装完成后的系统了。
 
-         ![Almost-Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done.png)
+      ![Almost-Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done.png)
 
-         ![Almost-Done-1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done_1.png)
+      ![Almost-Done-1](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done_1.png)
 
-         ![Almost-Done-2](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done_2.png)
+      ![Almost-Done-2](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Almost_Done_2.png)
 
-      10.安装完成，进入系统
+   10.安装完成，进入系统
 
-      	初始界面如下。仅有回收站与 Microsoft Edge。还需要进一步安装相应驱动，并关闭更新。
+   	初始界面如下。仅有回收站与 Microsoft Edge。还需要进一步安装相应驱动，并关闭更新。
 
-      ![Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Done.png)
+   ![Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Done.png)
