@@ -36,15 +36,15 @@ U 盘中还有一个机器的使用说明书，从说明书的名字中也可以
 
 2. 可以看到里面有如下文件。打开其中带有黄色光碟图标的 autorun.exe 文件。
 
-![AutorunMain](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AuorunMain.png)
+![AutorunMain](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AutorunMain.png)
 
 3. 点击 Install Drivers 选项，将其中的驱动依次安装。
 
-![AutorunInstall](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AuorunInstall.png)
+![AutorunInstall](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AutorunInstall.png)
 
 4. 安装完之后再次打开 autorun.exe 文件，点击 Options Drivers 选项，将其中能安装的驱动依次安装，其中可能有一些驱动是无法安装的，跳过不装即可。
 
-![AutorunOptions](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AuorunOptions.png)
+![AutorunOptions](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AutorunOptions.png)
 
 ## 怎么用 U 盘存文件
 
