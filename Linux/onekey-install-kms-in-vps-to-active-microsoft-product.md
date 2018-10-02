@@ -68,8 +68,11 @@ KMS 服务，用于在线激活 VOL 版本的 Windows 和 Office。
 下面列表里面含有的产品的 VL 版本或者能使用 key 进入 KMS 通道的产品，都支持使用 KMS 激活。
 
 Office 2016：[https://technet.microsoft.com/zh-cn/library/dn385360(v=office.16).aspx](https://technet.microsoft.com/zh-cn/library/dn385360(v=office.16).aspx)
+
 Office 2013：[https://technet.microsoft.com/ZH-CN/library/dn385360.aspx](https://technet.microsoft.com/ZH-CN/library/dn385360.aspx)
+
 Office 2010：[https://technet.microsoft.com/ZH-CN/library/ee624355(v=office.14).aspx](https://technet.microsoft.com/ZH-CN/library/ee624355(v=office.14).aspx)
+
 Windows：[https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys](https://docs.microsoft.com/zh-cn/windows-server/get-started/kmsclientkeys)
 
 使用管理员权限运行 cmd 查看系统版本，命令如下：
