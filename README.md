@@ -72,25 +72,25 @@
 
 ### Linux
 - [Linux 服务器最简单的自动维护方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/a-simple-way-to-maintain-a-linux-server.md)
-  - [Centos6.8 服务器配置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-server-configuration.md)
-  - [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
-  - [Centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
-  - [Centos 下连接 MySQL 显示 Error 1130 错误的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/centos-mysql-connection-error-1130.md)
-  - [Centos 下连接 MySQL 显示 Error 2003 错误的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/centos-mysql-connection-error-2003.md)
-  - [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Centos-install-JDK.md)
-  - [史上最全 Vim 快捷键键位图——入门到进阶](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
-  - [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
-  - [在 Centos 上搭建 QQ 机器人实现自动回复](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/MojoWebQQ.md)
-  - [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
-  - [在 VPS 上一键安装 KMS 服务脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/onekey-install-kms-in-vps-to-active-microsoft-product.md)
-  - [CentOS 服务器上搭建 Gitlab 安装步骤、中文汉化详细步骤、日常管理以及异常故障排查](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/install-gitlab-in-centos.md)
-  - [Ubuntu 16.0.2 及相近版本无法使用 Killer E2500 以太网卡的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/ubuntu-16-killer-e2500-configure-command.md)
+- [Centos6.8 服务器配置](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-server-configuration.md)
+- [CentOS 下 shadowsocks-libev 一键安装脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Install-shadowsocks.md)
+- [Centos7 下使用 yum 安装 mysql](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/yum-install-mysql.md) 
+- [Centos 下连接 MySQL 显示 Error 1130 错误的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/centos-mysql-connection-error-1130.md)
+- [Centos 下连接 MySQL 显示 Error 2003 错误的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/centos-mysql-connection-error-2003.md)
+- [Centos7 下安装 JDK 环境](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Centos-install-JDK.md)
+- [史上最全 Vim 快捷键键位图——入门到进阶](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/vim-keymap.md)
+- [测试 Linux VPS 在使用中国网络连接时的下载速度与上传速度](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-download-upload-speed-test-to-china.md)
+- [在 Centos 上搭建 QQ 机器人实现自动回复](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/MojoWebQQ.md)
+- [锐速加速优化](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/Linux-serverspeeder.md)
+- [在 VPS 上一键安装 KMS 服务脚本](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/onekey-install-kms-in-vps-to-active-microsoft-product.md)
+- [CentOS 服务器上搭建 Gitlab 安装步骤、中文汉化详细步骤、日常管理以及异常故障排查](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/install-gitlab-in-centos.md)
+- [Ubuntu 16.0.2 及相近版本无法使用 Killer E2500 以太网卡的解决方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/ubuntu-16-killer-e2500-configure-command.md)
 
 ---
 
 ### Mac
 - [在 Mac 中安装 adb 与 fastboot](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/adb-and-fastboot-on-mac.md)
-  - [Mac KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/Mac-KeyMap.png)
+- [Mac KeyMap](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Mac/Mac-KeyMap.png)
 
 ---
 
@@ -166,10 +166,7 @@
 
   - 好孩子看不见的网站 ↓
       - [小业务购买网站](http://xlmm.weikm.cc/) ：夏凉业务网，可以买钻买会员，买一些小东西，互联网商品专用
-      - [grigor.tk](http://grigor.tk/)：收藏时（2017-7-19）网站分享有大量的高质量 SS 节点供免费使用，进入后点击科学上网可见。
-      - [idea.online](http://xidea.online/#/)：JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
-      - [idea.iteblog.com](http://idea.iteblog.com/) :JetBrains 系列产品服务器之一 （只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
-      - [xidea.online](http://xidea.online) :JetBrains 系列产品服务器之一（只支持到 2017.2.x，2017.3.x 已经测试不可激活，没什么要求特殊功能可不升级）
+      - [licensez](https://licensez.com/) :列举了一些可用于激活 JetBrains 系列产品的站点收集网页，具体可激活的信息可以看页面的描述。
       - [laucyun](http://jetbrains.license.laucyun.com/):JetBrains 系列产品服务器之一，18.04 测试支持 2017.3.3
       - [去 AD Host](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)：使用的方法是将网页上的文档全选，粘贴到系统的 host 文件中去。打开网页后可以看看第一行的时间，时间为最近即为更新不久，一般是可用的，改 Host 的方法日后整理到另一个文档。
       - [科学上网 HOST](https://raw.githubusercontent.com/sy618/hosts/master/FQ)：同上，这个是有特殊用途的，上面那个是去广告的

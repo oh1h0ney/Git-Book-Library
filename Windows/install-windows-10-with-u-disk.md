@@ -199,6 +199,6 @@
 
    10.安装完成，进入系统
 
-	​	初始界面如下。仅有回收站与 Microsoft Edge。还需要进一步安装相应驱动，并关闭更新。
+		初始界面如下。仅有回收站与 Microsoft Edge。还需要进一步安装相应驱动，并关闭更新。
 
    ![Done](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/windowsInstall/After_Setup_Done.png)
