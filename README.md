@@ -67,6 +67,7 @@
 - [使用注册表更改默认路径](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/regedit-edit-default-path-with-your-mind.md)
 - [关闭 Windows Hyper-V](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-hyper-v-in-windows.md)
 - [U 盘安装 Win10 教程](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/install-windows-10-with-u-disk.md)
+- [利用 Chrome 原生工具进行网页长截图](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/chrome-capture-full-websize-screenshot.md)
 
 ---
 
