@@ -30,19 +30,19 @@ U 盘中还有一个机器的使用说明书，从说明书的名字中也可以
 
 ## 怎么用 U 盘装驱动
 
-1. 打开驱动文件夹，本例中打开吾空 Z17-8U 驱动文件夹。
+1. 打开驱动文件夹，本例中以打开吾空 Z17-8U 驱动文件夹为例。
 
 ![DriverPath](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/DriverPath.png)
 
-2. 可以看到里面有如下文件。打开其中带有黄色光碟图标的 autorun.exe 文件。
+2. 可以看到里面有如下文件。打开其中带有黄色光碟图标的 autorun 文件。
 
 ![AutorunMain](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AutorunMain.png)
 
-3. 点击 Install Drivers 选项，将其中的驱动依次安装。
+3. 点击 Install Drivers 选项，其中有 1-10 十项驱动，按顺序依次从上到下点击，就可以打开相应的驱动安装程序界面，按照安装程序的提示进行操作就可以完成驱动的安装，当这里的十项全部安装完成之后，Driver Installer 这个界面将会关闭。
 
 ![AutorunInstall](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AutorunInstall.png)
 
-4. 安装完之后再次打开 autorun.exe 文件，点击 Options Drivers 选项，将其中能安装的驱动依次安装，其中可能有一些驱动是无法安装的，跳过不装即可。
+4. 再次打开 autorun.exe 文件，点击 Options Drivers 选项，也按顺序将其中的驱动全部安装，将其中能安装的驱动依次安装，其中可能有一些驱动是无法安装的，跳过不装即可。
 
 ![AutorunOptions](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/UDiskDetail/AutorunOptions.png)
 
