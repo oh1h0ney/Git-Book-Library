@@ -15,17 +15,17 @@
 
 2. 跳过系统设置界面进入系统审核界面
 
-    系统安装完成后，待重启后语音停止后按 Ctrl + Shif + F3 跳过初始设置界面，将会以 Adminstrator 用户登录，进入系统审核界面。
+    系统安装完成后，待重启后的语音停止后按 Ctrl + Shift + F3 跳过初始设置界面，将会以 Adminstrator 用户登录系统，进入系统审核界面。
 
     登录后系统会自动打开系统准备工具，将其放入后台待完成自定义设置后使用
 
 3. 进行系统自定义设置
 
-    安装驱动、软件，并完成各项设置。
+    安装驱动、软件，并完成关闭自动更新等各项设置。
 
 4. sysprep
 
-    打开系统准备工具，其按如图设置，点确定，系统会自动进行清理，清理完成后关机。
+    完成各项自定义设置后，打开系统准备工具（如不慎将此工具关闭，可前往 C:\Windows\System32\Syspre 目录，手动打开 sysprep.exe 文件），按下图进行设置，点确定，系统会自动进行相应操作，操作完成后会自动关机。
 
     ![系统准备工具](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/capture-custom-windows-image/win10-sysprep.png)
 
@@ -37,7 +37,7 @@
 
     如无，请使用 diskpart 工具创建。
 
-    若系统盘为 C 盘，镜像存放目录为 D 盘 image 文件夹下，欲将镜像文件命名为 custom.wim, 镜像为 Windows 10 Custom，则获取镜像的命令如下：
+    若系统盘为 C 盘，镜像存放目录为 D 盘 image 文件夹下，欲将镜像文件命名为 custom.wim, 镜像名为 Windows 10 Custom，则获取镜像的命令如下：
 
     dism /capture-image /captureDir:C:\ /imagefile:"D:\image\custom.wim" /name:"Windows 10 Custom" /NoRpFix
 

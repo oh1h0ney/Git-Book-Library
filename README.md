@@ -69,7 +69,7 @@
 - [U 盘安装 Win10 教程](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/install-windows-10-with-u-disk.md)
 - [利用 Chrome 原生工具进行网页长截图](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/chrome-capture-full-websize-screenshot.md)
 - [系统封装教程](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/capture-custom-windows-image.md)
-
+- [用 bcdboot 修复系统引导](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/repair-boot-menu-with-bcdboot.md)
 ---
 
 ### Linux
