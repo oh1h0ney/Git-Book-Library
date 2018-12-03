@@ -17,7 +17,7 @@
 
     系统安装完成后，待重启后的语音停止后按 Ctrl + Shift + F3 跳过初始设置界面，将会以 Adminstrator 用户登录系统，进入系统审核界面。
 
-    登录后系统会自动打开系统准备工具，将其放入后台待完成自定义设置后使用
+    登录后系统会自动打开系统准备工具，将其放入后台待完成自定义设置后使用。
 
 3. 进行系统自定义设置
 
@@ -35,7 +35,7 @@
 
     此时电脑中应该有一个除系统分区之后的大容量分区以作为镜像存放目录。
 
-    如无，请使用 diskpart 工具创建。
+    如无，请使用 diskpart 工具创建。使用 diskpart 工具新建分区的方法可以参见[使用 Diskpart 对硬盘分区进行调整](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart.md) 中的步骤 4。也可以使用启动 U 盘的安装程序对硬盘进行自定义设置来新建分区。
 
     若系统盘为 C 盘，镜像存放目录为 D 盘 image 文件夹下，欲将镜像文件命名为 custom.wim, 镜像名为 Windows 10 Custom，则获取镜像的命令如下：
 
