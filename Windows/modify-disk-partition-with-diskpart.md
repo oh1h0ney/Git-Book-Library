@@ -51,6 +51,8 @@
 
     create partition primary (为所有剩余空间创建一个主分区)
 
+    
+
     format fs=ntfs quick (执行快速格式化，分区格式为 ntfs)
 
     assign letter=D    (将此分区盘符设为 D)
