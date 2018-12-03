@@ -61,7 +61,7 @@
 
 5. 修复引导
 
-    引用其他教程，可参照 ![使用 bcdboot 修复引导](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/repair-boot-menu-with-bcdboot.md)
+    引用其他教程，可参照 [使用 bcdboot 修复引导](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/repair-boot-menu-with-bcdboot.md)
 
     此处操作与教程不同的地方为，不需要借助启动 U 盘，只需要直接在命令提示符中输入命令即可操作。
 
