@@ -37,6 +37,8 @@
 
     delete partition
 
+    ![删除分区操作图示](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart/deletePartition.png)
+
 3. 调整分区大小
 
     list partition 
@@ -45,17 +47,21 @@
 
     extend size=40960  (将选中的分区扩大 40960M)
 
+    ![调整分区大小操作图示](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart/extendPartition.png)
+
 4. 新建分区
 
     list disk 0 (后面加要新建分区的磁盘)
 
     create partition primary (为所有剩余空间创建一个主分区)
 
-    
-
     format fs=ntfs quick (执行快速格式化，分区格式为 ntfs)
 
     assign letter=D    (将此分区盘符设为 D)
+
+    ![新建分区操作图示](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart/createPartition.png)
+
+    ![修改盘符操作图示](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart/assignLetter.png)
 
     可执行 list partition 再次查看分区列表，以验证是否执行成功。至此，硬盘分区相关的操作已经全部完成。
     
@@ -66,6 +72,10 @@
     引用其他教程，可参照 [使用 bcdboot 修复引导](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/repair-boot-menu-with-bcdboot.md)
 
     此处操作与教程不同的地方为，不需要借助启动 U 盘，只需要直接在命令提示符中输入命令即可操作。
+
+    ![修复引导操作图示 1](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart/bcdboot.png)
+
+    ![修复引导操作图示 2](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart/bcdboot1.png)
 
 6. 检测
 
