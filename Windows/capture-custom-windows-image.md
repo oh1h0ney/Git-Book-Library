@@ -43,6 +43,18 @@
 
     输入命令后回车，待进度条跑完后，就可以在镜像存放目录中看到名为 custom.wim 的镜像文件。
 
+    ----
+
+    (进阶部分) 将获取的镜像并入原有镜像中
+
+    在这第五步中，若系统盘为 C 盘，在 D 盘 image 文件夹下有一个名为 install.wim 的镜像文件，现在向其添加一个索引名为 Windows 10 Custom 的镜像，则使用如下命令：
+
+    dism /append-image /imageFile:"D:\image\install.wim" /captureDir:C:\ /Name:"Windows 10 Custom"
+
+    并入完成后，在系统安装过程中的版本选择界面中就可以看到除 windows 10 专业版、windows 10 企业版等原来就有的索引名称外，还会多一个名为 Windows 10 Custom 的索引。
+
+    ----
+
 6. 使用封装后的镜像安装系统
 
     在 U 盘启动盘中，source 目录下，有一个 install.wim 文件，将其命名为 backup.wim, 将自定义获取的 custom.wim 复制到 source 目录下，并将其文件名改为 install.wim。然后再按 [U 盘安装 Win10 教程](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/install-windows-10-with-u-disk.md) 来装系统即可。
