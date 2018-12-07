@@ -1,0 +1,99 @@
+{
+            "brand": {
+                "createdTime": 0,
+                "description": "string",
+                "headUrl": "string",
+                "id": 0,
+                "name": "string",
+                "orderNo": 0,
+                "story": "string",
+                "updatedTime": 0
+            },
+            "configList": [
+                null
+            ],
+            "createName": "string",
+            "createdTime": 0,
+            "id": 0,
+            "name": "string",
+            "orderInstall": [
+                {
+                    "mark": "string",
+                    "model": "string",
+                    "name": "string",
+                    "no": "string",
+                    "quantity": "string",
+                    "rmaExp": "string",
+                    "serialNo1": "string",
+                    "serialNo2": "string"
+                }
+            ],
+            "orderList": [
+                null
+            ],
+            "orderTest": [
+                {
+                    "content": "string",
+                    "name": "string",
+                    "no": "string",
+                    "record": "string",
+                    "result": "string"
+                }
+            ],
+            "orderdetails": {
+                "configValue": "string",
+                "id": 0,
+                "machineValue": "string",
+                "orderId": 0,
+                "orderValue": "string",
+                "testValue": "string"
+            },
+            "product": {
+                "brand": {
+                    "createdTime": 0,
+                    "description": "string",
+                    "headUrl": "string",
+                    "id": 0,
+                    "name": "string",
+                    "orderNo": 0,
+                    "story": "string",
+                    "updatedTime": 0
+                },
+                "brandId": 0,
+                "brandName": "string",
+                "createdTime": 0,
+                "headUrl": "string",
+                "id": 0,
+                "imgUrls": "string",
+                "model": "string",
+                "name": "string",
+                "orderNo": 0,
+                "productUrl": "string",
+                "putawayTime": 0,
+                "remark": "string",
+                "status": 0,
+                "updatedTime": 0,
+                "video": {
+                    "bigUrl": "string",
+                    "createdTime": 0,
+                    "description": "string",
+                    "headUrl": "string",
+                    "id": 0,
+                    "name": "string",
+                    "orderNo": 0,
+                    "productModel": "string",
+                    "productName": "string",
+                    "status": 0,
+                    "url": "string"
+                },
+                "videoId": 0,
+                "viewHome": 0
+            },
+            "productId": 0,
+            "productName": "string",
+            "salesTime": 0,
+            "sn": "string",
+            "status": 0,
+            "userId": 0,
+            "value": "string"
+        }
