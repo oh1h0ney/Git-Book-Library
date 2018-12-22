@@ -33,7 +33,7 @@
 
     list partition    （列出所选磁盘中所有分区）
 
-    list partition 5 （选中指定序号的分区，其中 partition 后面接着的数字为 D 盘所在系统的分区序号）
+    select partition 5 （选中指定序号的分区，其中 partition 后面接着的数字为 D 盘所在系统的分区序号）
 
     delete partition
 
