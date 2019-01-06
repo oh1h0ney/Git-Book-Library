@@ -114,6 +114,8 @@
 ## 生活小贴士
 
 - [怎么开米袋](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Live/how-to-de-archive-a-rice-bag.md)
+- [2019 年 1 月顺丰运效地区代码](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Live/zone_code_cn_2019_1.txt)
+  - 用 Python 爬取的地区代码，页面如下。http://www.sf-express.com/cn/sc/dynamic_function/price/
 
 ---
 
