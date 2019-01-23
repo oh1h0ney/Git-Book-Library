@@ -27,7 +27,7 @@
 
 按上图所示参数进行设置，点击鼠标所在的位置，会弹出选择镜像文件的界面，在界面中打开系统镜像文件所在的目录，选择镜像文件，点确定
 
-![rufus-image](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/create-windows-install-disk/rufus-file.png)
+![rufus-image](https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/create-windows-install-disk/rufus-image.png)
 
 然后点击开始，等进度条完成后，U 盘启动盘就制作完成了。此时可以参照文末验证是否制作成功。
 
