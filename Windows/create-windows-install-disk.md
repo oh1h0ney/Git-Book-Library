@@ -26,7 +26,9 @@
 
 [Diskgenius 下载链接](https://1drv.ws/u/s!Asqcuuz_FQsl-SUhyfnB0HGYh2Vz)
 
-下载后，将其解压，打开解压出来的文件夹中的 Diskgenius.exe 文件!(Diskgenius 启动)[https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/create-windows-install-disk/Diskgenius-app.png]
+下载后，将其解压，打开解压出来的文件夹中的 Diskgenius.exe 文件 
+
+!(Diskgenius 启动)[https://github.com/oh1h0ney/Git-Book-Library/raw/master/Windows/create-windows-install-disk/Diskgenius-app.png]
 
 
 
