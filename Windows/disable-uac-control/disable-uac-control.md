@@ -4,6 +4,8 @@
 
 这个界面是为了防止某些别有用意的程序自动在后台启动而设置的通知消息，如果对于电脑上的程序相当信任且拥有一定的电脑维护知识，可以按照以下步骤将这个界面设置为永不通知，也就是关掉这个烦人的界面。
 
+    ![UAC 界面](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-uac-control/display.png)
+
 1. 桌面左下角右击，在弹出的菜单中 运行 选项上点击鼠标左键
 
     ![打开 运行 界面](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-uac-control/open_run.png)
