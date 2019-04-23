@@ -72,6 +72,7 @@
 - [用 bcdboot 修复系统引导](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/repair-boot-menu-with-bcdboot.md)
 - [使用 Diskpart 对系统进行分区](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/modify-disk-partition-with-diskpart.md)
 - [制作 Windows 系统安装启动盘](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/create-windows-install-disk.md)
+- [Windows 系统关闭 UAC 控制](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-uac-control/disable-uac-control.md)
 ---
 
 ### Linux
