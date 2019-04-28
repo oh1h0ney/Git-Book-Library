@@ -74,6 +74,7 @@
 - [制作 Windows 系统安装启动盘](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/create-windows-install-disk.md)
 - [Windows 系统关闭 UAC 控制](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-uac-control/disable-uac-control.md)
 - [关闭 Windows 自动更新](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/disable-windows-update/disable-windows-update.md)
+- [任务栏图标操作说明](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Windows/taskbar-icon/taskbar-icon.md)
 ---
 
 ### Linux
