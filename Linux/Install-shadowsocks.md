@@ -17,6 +17,12 @@ chmod +x shadowsocks-all.sh
 
 
 ```
+wget --no-check-certificate -O shadowsocks-all.sh https://raw.githubusercontent.com/oh1h0ney/Git-Book-Library/master/Linux/Scripts/shadowsocks-all.sh
+chmod +x shadowsocks-all.sh
+./shadowsocks-all.sh 2>&1 | tee shadowsocks-all.log
+```
+
+```
 wget -N --no-check-certificate [https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh](https://link.zhihu.com/?target=https%3A//raw.githubusercontent.com/ToyoDAdoubi/doubi/master/ssr.sh) && chmod +x ssr.sh && bash ssr.sh 
 ```
 
