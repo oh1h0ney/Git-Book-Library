@@ -768,7 +768,7 @@ install_prepare_libev_obfs(){
         while true
         do
         echo -e "Do you want install simple-obfs for ${software[${selected}-1]}? [y/n]"
-        read -p "(default: n):" libev_obfs
+        libev_obfs=n
         [ -z "$libev_obfs" ] && libev_obfs=n
         case "${libev_obfs}" in
             y|Y|n|N)
