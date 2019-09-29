@@ -650,7 +650,7 @@ install_prepare_cipher(){
     do
     echo -e "Please select stream cipher for ${software[${selected}-1]}:"
 
-    if   [[ "${selected}" == "1" || "${selected}" == "17" ]]; then
+    if   [[ "${selected}" == "1" || "${selected}" == "8" ]]; then
         for ((i=1;i<=${#common_ciphers[@]};i++ )); do
             hint="${common_ciphers[$i-1]}"
             echo -e "${green}${i}${plain}) ${hint}"
