@@ -631,7 +631,7 @@ install_prepare_port() {
     do
     dport=$(shuf -i 9000-19999 -n 1)
     echo -e "Please enter a port for ${software[${selected}-1]} [1-65535]"
-    shadowsocksport=1517
+    shadowsocksport=9998
     expr ${shadowsocksport} + 1 &>/dev/null
     if [ $? -eq 0 ]; then
         if [ ${shadowsocksport} -ge 1 ] && [ ${shadowsocksport} -le 65535 ] && [ ${shadowsocksport:0:1} != 0 ]; then
@@ -650,7 +650,7 @@ install_prepare_cipher(){
     do
     echo -e "Please select stream cipher for ${software[${selected}-1]}:"
 
-    if   [[ "${selected}" == "1" || "${selected}" == "4" ]]; then
+    if   [[ "${selected}" == "1" || "${selected}" == "17" ]]; then
         for ((i=1;i<=${#common_ciphers[@]};i++ )); do
             hint="${common_ciphers[$i-1]}"
             echo -e "${green}${i}${plain}) ${hint}"
