@@ -650,12 +650,12 @@ install_prepare_cipher(){
     do
     echo -e "Please select stream cipher for ${software[${selected}-1]}:"
 
-    if   [[ "${selected}" == "1" || "${selected}" == "8" ]]; then
+    if   [[ "${selected}" == "1" || "${selected}" == "4" ]]; then
         for ((i=1;i<=${#common_ciphers[@]};i++ )); do
             hint="${common_ciphers[$i-1]}"
             echo -e "${green}${i}${plain}) ${hint}"
         done
-        pick=1
+        pick=16
         expr ${pick} + 1 &>/dev/null
         if [ $? -ne 0 ]; then
             echo -e "[${red}Error${plain}] Please enter a number"
