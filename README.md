@@ -85,6 +85,7 @@
 
 #### 脚本
 - [在 Centos 上搭建 QQ 机器人实现自动回复](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/MojoWebQQ.md)
+- Centos-Script Centos 一键安装脚本集锦（Forked from [Leif160519](https://github.com/Leif160519/centos-script))
 
 #### 维护
 - [Linux 服务器最简单的自动维护方法](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Linux/a-simple-way-to-maintain-a-linux-server.md)

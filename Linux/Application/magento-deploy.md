@@ -1,6 +1,10 @@
 # Magento 部署
 
 [TOC]
+## 环境准备
+1. Centos 8  
+2. Oneinstack nginx + php7.2 + MySQL 8.0  
+    Oneinstack 是安装 LNMP 的软件，它的使用方法可以去 Oneinstack 的[官网](https://oneinstack.com/auto/)查看，现在可以根据选择所需要安装的项目获取安装的脚本。  
 
 ## 1. PHP
 
@@ -30,21 +34,42 @@ java -version
 3. 运行 screen 创建 docker 窗口,screen -S docker  (恢复命令：screen -r dokcer)
 4. 运行 elasticsearch
 docker run -p 9200:9200 -p 9300:9300 --restart=always -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.9.2
+5.访问服务器 IP：9200，出现以下内容既为安装运行成功
+```
+{
+  "name" : "f3b152a92013",
+  "cluster_name" : "docker-cluster",
+  "cluster_uuid" : "sNW3ZeEzTnaDmFRoDnQ9mw",
+  "version" : {
+    "number" : "7.9.2",
+    "build_flavor" : "default",
+    "build_type" : "docker",
+    "build_hash" : "d34da0ea4a966c4e49417f2da2f244e3e97b4e6e",
+    "build_date" : "2020-09-23T00:45:33.626720Z",
+    "build_snapshot" : false,
+    "lucene_version" : "8.6.2",
+    "minimum_wire_compatibility_version" : "6.8.0",
+    "minimum_index_compatibility_version" : "6.0.0-beta1"
+  },
+  "tagline" : "You Know, for Search"
+}
+```  
+6. 关掉终端窗口，新建一个窗口连接到服务器，因为 elasticsearch docker 会持续输入日志，将终端关掉重新连接 elasticsearch 依然会在后台运行。
 ## 4.下载 Magento
-    1. cd /data/wwwroot/default/magento
-    2. wget https://download.magentochina.org/magento/2/2.3.X/Magento-CE-2.3.1-2019-03-18-06-28-13.tar.gz
+    1. cd /data/wwwroot/default/magento  
+    2. wget https://download.magentochina.org/magento/2/2.3.X/Magento-CE-2.3.1-2019-03-18-06-28-13.tar.gz  
 ## 5.解压 Magento
-1. 解压
-    tar xf Magento-CE-2.3.1-2019-03-18-06-28-13.tar.gz
-2. 修改配置文件
-    1. vi vendor/magento/framework/DB/Adapter/Pdo/Mysql.php
-    2. 定位到 1849 行，将以下代码进行修改
-    ```
-    修改前
-    case 'tinyint':
-    case 'smallint':
-        return Table::TYPE_SMALLINT;
-    case 'mediumint':
+1. 解压  
+    tar xf Magento-CE-2.3.1-2019-03-18-06-28-13.tar.gz  
+2. 修改配置文件  
+    1. vi vendor/magento/framework/DB/Adapter/Pdo/Mysql.php  
+    2. 定位到 1849 行，将以下代码进行修改  
+    ```  
+    修改前  
+    case 'tinyint':  
+    case 'smallint':  
+        return Table::TYPE_SMALLINT;  
+    case 'mediumint':  
     case 'int':
         return Table::TYPE_INTEGER;
     修改后
@@ -59,22 +84,22 @@ docker run -p 9200:9200 -p 9300:9300 --restart=always -e "discovery.type=single-
     ```
 ## 6. 创建数据库
     在 MySQL 中新建 magento 数据库
-## 7. 命令行安装 Magento（此命令目前仅做记录，正常格式还在研究）
-php bin/magento setup:install 
---base-url="http://localhost" 
---db-host="localhost" 
---db-name="magento" 
---db-user="root" 
---db-password="888888" 
---admin-firstname="Admin" 
---admin-lastname="Admin" 
---admin-email="example@mail.com" 
---admin-user="admin" 
---admin-password="passW0rd" 
---language="en_US" 
---currency="USD" 
---timezone="America/Chicago" 
---use-rewrites="1" 
+## 7. 命令行安装 Magento（此命令目前仅做记录，正确格式还在研究）
+php bin/magento setup:install  
+--base-url="http://localhost/"   
+--db-host="localhost"  
+--db-name="magento"  
+--db-user="root"  
+--db-password="dbpassword"  
+--admin-firstname="Admin"  
+--admin-lastname="Admin"  
+--admin-email="example@mail.com"  
+--admin-user="admin"  
+--admin-password="passW0rd"  
+--language="en_US"  
+--currency="USD"  
+--timezone="America/Chicago"  
+--use-rewrites="1"  
 --backend-frontname="backend"
 
 ## 问题
