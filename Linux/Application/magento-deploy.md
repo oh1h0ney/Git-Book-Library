@@ -104,3 +104,7 @@ php bin/magento setup:install
 
 ## 问题
 1. [After installing, images and stylesheets do not load; only text displays, no graphics](https://support.magento.com/hc/en-us/articles/360032994352?_ga=2.144556085.1486798061.1603281344-1064637223.1603281344)
+
+## 参考资料
+1.  [Magento 官方安装教程](https://devdocs.magento.com/guides/v2.3/install-gde/install/get-help.html)
+2. [Magento 中文社区下载安装教程](https://www.magentochina.org/download-install/)

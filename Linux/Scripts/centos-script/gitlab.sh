@@ -3,7 +3,7 @@
 IP_ADDRESS=`ip a | grep inet | grep -v inet6 | grep -v 127 | sed 's/^[ \t]*//g' | cut -d ' ' -f2 | grep -v 172 | cut -d '/' -f1 | head -1`
 echo -e '\033[1;32m 安装GitLab \033[0m'
 echo -e '\033[1;32m 1.安装SSH \033[0m'
-yum -y install curl policycoreutils openssh-server openssh-clients policycoreutils-python
+yum -y install curl policycoreutils openssh-server openssh-clients policycoreutils-python wget policycoreutils-python-utils
 echo -e '\033[1;32m 设置SSH开机自启动 \033[0m'
 systemctl enable sshd
 echo -e '\033[1;32m 启动SSH服务 \033[0m'
@@ -36,5 +36,6 @@ echo -e '\033[1;32m 使用以下指令启动|停止|查看状态|重启服务管
 echo -e '\033[1;33m gitlab-ctl start|stop|status|restart \033[0m'
 echo -e '\033[1;32m GitLab配置完成！\033[0m'
 echo -e "\033[1;32m 清除yum安装包 \033[0m"
+echo -e "\033[1;32m 如果无法访问，请注意防火墙放行。也可以直接关闭防火墙（* 重要操作，请确认其风险） \033[0m"
 yum -y clean all
 exit

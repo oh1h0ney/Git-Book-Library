@@ -121,6 +121,8 @@
 ### 路由器
 -  [斐讯K2刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-phicomm-k2.md)
 -  [小米路由 mini 刷写固件](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Router/flash-img-mini-xiaomi.md)
+- 爱快路由器（待更新）
+- ESXI（待更新）
 ---
 ### 电脑故障
 - [电脑屏幕可能会出现的故障](https://github.com/oh1h0ney/Git-Book-Library/blob/master/Computer/computer-hardware-screen-issues.md)
